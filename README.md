@@ -11,8 +11,13 @@
     <img width="30" heigth="30" src="./images/webpack.svg"/>
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
+  <div>
+    <div>
+      <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=burger"/>
+    </div>
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=mesto-project"/>
+  </div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=burger"/>
 </div>
 
 
