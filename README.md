@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет, меня зовут Дмитрий<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ищу возможность на практике применить свои знания</h3>
-<div>
+<div align="center">
 <h3>Мой стек:</h3>
   <div>
     <img width="30" heigth="30" src="./images/html5.svg"/>
@@ -11,8 +11,9 @@
     <img width="30" heigth="30" src="./images/webpack.svg"/>
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
 </div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
+
 
 <!--
 **DmitryBaranovAndreevich/DmitryBaranovAndreevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
