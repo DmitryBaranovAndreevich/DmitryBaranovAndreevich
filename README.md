@@ -12,6 +12,7 @@
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=burger"/>
 </div>
 
 
