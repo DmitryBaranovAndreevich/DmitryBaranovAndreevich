@@ -12,7 +12,7 @@
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
 </div>
-<img src = "https://github-readme-stats.vercel.app/api?username=DmitryBaranovAndreevich" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
 
 <!--
 **DmitryBaranovAndreevich/DmitryBaranovAndreevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
