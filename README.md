@@ -12,8 +12,8 @@
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
   <div>
-    <div width="100">
-      <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=burger"/>
+    <div >
+      <img width="100" src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=burger"/>
     </div>
     <img width="100" src = "https://github-readme-stats.vercel.app/api/pin/?username=DmitryBaranovAndreevich&repo=mesto-project"/>
   </div>
