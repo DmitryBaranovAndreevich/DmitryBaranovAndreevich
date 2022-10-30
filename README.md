@@ -1,10 +1,15 @@
 <h1 align="center">Всем привет, меня зовут Дмитрий<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ищу возможность на практике применить свои знания</h3>
-<div align="center" display="flex">
-<span>Мой стек:</span>
+<div>
+<h3>Мой стек:</h3>
   <div>
     <img width="30" heigth="30" src="./images/html5.svg"/>
     <img width="30" heigth="30" src="./images/csswizardry.svg"/>
+    <img width="30" heigth="30" src="./images/javascript.svg"/>
+    <img width="30" heigth="30" src="./images/react.svg"/>
+    <img width="30" heigth="30" src="./images/redux.svg"/>
+    <img width="30" heigth="30" src="./images/webpack.svg"/>
+    <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
 </div>
 
