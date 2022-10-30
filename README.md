@@ -12,7 +12,7 @@
     <img width="30" heigth="30" src="./images/typescript.svg"/>
   </div>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryBaranovAndreevich)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryBaranovAndreevich)](https://github.com/anuraghazra/github-readme-stats)" />
 
 <!--
 **DmitryBaranovAndreevich/DmitryBaranovAndreevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
