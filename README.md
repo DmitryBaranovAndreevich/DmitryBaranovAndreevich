@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет, меня зовут Дмитрий<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ищу возможность на практике применить свои знания</h3>
-<div align="center"><span>Мой стек:</span><div></div>
+<div align="center"><span>Мой стек:</span><div><img src="./images/html5.svg"/></div></div>
 
 <!--
 **DmitryBaranovAndreevich/DmitryBaranovAndreevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
