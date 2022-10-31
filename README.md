@@ -5,11 +5,11 @@
   <div style="background-color: white;">
     <img width="30" heigth="30" src="./images/html.svg"/>
     <img width="30" heigth="30" src="./images/css.png"/>
-    <img width="30" heigth="30" src="./images/javascript.svg"/>
-    <img width="30" heigth="30" src="./images/react.svg"/>
-    <img width="30" heigth="30" src="./images/redux.svg"/>
-    <img width="30" heigth="30" src="./images/webpack.svg"/>
-    <img width="30" heigth="30" src="./images/typescript.svg"/>
+    <img width="30" heigth="30" src="./images/js.png"/>
+    <img width="30" heigth="30" src="./images/react.png"/>
+    <img width="30" heigth="30" src="./images/redux.png"/>
+    <img width="30" heigth="30" src="./images/webpack.png"/>
+    <img width="30" heigth="30" src="./images/typescript.png"/>
   </div>
   <div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBaranovAndreevich" />
