@@ -4,7 +4,7 @@
 <h3>Мой стек:</h3>
   <div style="background-color: white;">
     <img width="30" heigth="30" src="./images/html.svg"/>
-    <img width="30" heigth="30" src="./images/csswizardry.svg"/>
+    <img width="30" heigth="30" src="./images/css.png"/>
     <img width="30" heigth="30" src="./images/javascript.svg"/>
     <img width="30" heigth="30" src="./images/react.svg"/>
     <img width="30" heigth="30" src="./images/redux.svg"/>
