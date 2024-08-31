@@ -1,4 +1,3 @@
-<h1 align="center">Всем привет, меня зовут Дмитрий<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
 <h3>Мой стек:</h3>
   <div style="background-color: white;">
